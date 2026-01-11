@@ -10,4 +10,11 @@ It has very minimalistic desing with no addons, just keys and an encoder, no lig
 <img width="562" height="660" alt="image" src="https://github.com/user-attachments/assets/b34b4eb7-85fe-44c1-bada-602fbc72c860" />
 <img width="1248" height="526" alt="image" src="https://github.com/user-attachments/assets/6f3e5584-1e14-4e8d-acc9-5dbec1599539" />
 
-
+List of parts:
+-Seeed XIAO RP2040
+-9x MX-Style switches
+-EC11 Rotary encoder
+-M3x16mm screws
+-M3x5mx4mm heatset inserts
+-Blank DSA keycaps (White)
+-3D printed case printed on Bambu Lab A1
