@@ -1,7 +1,7 @@
 # mi-pad
 A small macropad bulit with QMK in colaboration with Hackclub
 
-The hardware part was pretty easy for me, but writing the firmware using QMK proved to me that i am very bad at software lol.
+The hardware part was pretty easy for me, but writing the firmware using QMK proved to me that i am very bad at software lol, i mainly used copilot to write it for me.
 Below you can see images of my bulid, and when I will asemble it, I will add photos of finished version.
 It has very minimalistic desing with no addons, just keys and an encoder, no lights or glitter included.
 
