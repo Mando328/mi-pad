@@ -9,6 +9,7 @@ It has very minimalistic desing with no addons, just keys and an encoder, no lig
 <img width="493" height="599" alt="image" src="https://github.com/user-attachments/assets/0705ddd9-537e-467f-b491-860f12308b7a" />
 <img width="562" height="660" alt="image" src="https://github.com/user-attachments/assets/b34b4eb7-85fe-44c1-bada-602fbc72c860" />
 <img width="1248" height="526" alt="image" src="https://github.com/user-attachments/assets/6f3e5584-1e14-4e8d-acc9-5dbec1599539" />
+<img width="1920" height="642" alt="remder" src="https://github.com/user-attachments/assets/ba383762-d8d0-408b-8314-a2645eecb79e" />
 
 List of parts:
 -Seeed XIAO RP2040
