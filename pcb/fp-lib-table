@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPL lib")(type "KiCad")(uri "C:/Users/Lukasz/Desktop/szymon/kicad libaries/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "M5 switch")(type "KiCad")(uri "C:/Users/Lukasz/Desktop/szymon/kicad libaries/switch")(options "")(descr ""))
+  (lib (name "Rotary encoder")(type "KiCad")(uri "C:/Users/Lukasz/Desktop/szymon/kicad libaries/rotary encoder")(options "")(descr ""))
+  (lib (name "OLED 0.91")(type "KiCad")(uri "C:/Users/Lukasz/Desktop/szymon/kicad libaries/OLED 091")(options "")(descr ""))
+)

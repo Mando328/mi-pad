@@ -2248,7 +2248,7 @@
 		)
 		(uuid "1db25ff3-7573-498b-8c24-a9c674f267d9")
 	)
-	(label "row0"
+	(label "row is col 0"
 		(at 83.82 81.28 0)
 		(effects
 			(font
